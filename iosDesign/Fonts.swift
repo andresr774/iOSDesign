@@ -20,7 +20,7 @@ struct Fonts: View {
     }
     
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello")
             .padding()
     }
 }
