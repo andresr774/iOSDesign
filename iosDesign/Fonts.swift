@@ -23,6 +23,7 @@ struct Fonts: View {
         Text("Hello, world")
             .font(.headline)
             .padding()
+            .background(.blue)
     }
 }
 
