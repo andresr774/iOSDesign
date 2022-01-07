@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		814F7D6327888CF800A6AC64 /* iosDesignApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814F7D6227888CF800A6AC64 /* iosDesignApp.swift */; };
-		814F7D6527888CF800A6AC64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814F7D6427888CF800A6AC64 /* ContentView.swift */; };
+		814F7D6527888CF800A6AC64 /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814F7D6427888CF800A6AC64 /* Fonts.swift */; };
 		814F7D6727888CF900A6AC64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 814F7D6627888CF900A6AC64 /* Assets.xcassets */; };
 		814F7D6A27888CF900A6AC64 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 814F7D6927888CF900A6AC64 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		814F7D5F27888CF800A6AC64 /* iosDesign.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosDesign.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		814F7D6227888CF800A6AC64 /* iosDesignApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosDesignApp.swift; sourceTree = "<group>"; };
-		814F7D6427888CF800A6AC64 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		814F7D6427888CF800A6AC64 /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
 		814F7D6627888CF900A6AC64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		814F7D6927888CF900A6AC64 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				814F7D6227888CF800A6AC64 /* iosDesignApp.swift */,
-				814F7D6427888CF800A6AC64 /* ContentView.swift */,
+				814F7D6427888CF800A6AC64 /* Fonts.swift */,
 				814F7D6627888CF900A6AC64 /* Assets.xcassets */,
 				814F7D6827888CF900A6AC64 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				814F7D6527888CF800A6AC64 /* ContentView.swift in Sources */,
+				814F7D6527888CF800A6AC64 /* Fonts.swift in Sources */,
 				814F7D6327888CF800A6AC64 /* iosDesignApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
